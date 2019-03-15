@@ -17,7 +17,7 @@ An assembly video can be found at https://youtu.be/jAEmRvQLmc0
 
 ### What else do you require to operate the device
 * A Wifi hotspot and the access credentials - or an open hot spot
-* USB (very string!) power/charger (2.5A recommended) and a USB charging cable
+* USB (very strong!) power/charger (2.5A recommended) and a USB charging cable
 
 ### Installation
 * check the source of this document and compare if the installation instructions has been enhanced: https://github.com/fossasia/susi_linux/edit/development/docs/development_device_handout.md
